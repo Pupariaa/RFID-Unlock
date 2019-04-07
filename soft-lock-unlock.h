@@ -2,7 +2,7 @@
 //Ce système nessesite obligatoirement un arduino avec un ATMEGA 32U4 soit un arduino LEONARDO.
 //Maxime ZORLONI
 //05.04.2019
-
+//Pour le câblage, rendez-vous dans "wiki" sur le GitHub
 #include <SPI.h> //Intégration de la librairie SPI
 #include <RFID.h> //Intégration de la librairie RFID
 #include "Keyboard.h" //Intégration de la librairie Keyboard
